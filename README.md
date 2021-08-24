@@ -1,2 +1,2 @@
-# yasithDev
-Spring boot
+# Spring boot application
+
